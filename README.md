@@ -1,8 +1,6 @@
 ---
 name: My projects learning python/ Meus projetos aprendendo python
 about: About this repository
-title: ''
-labels: ''
 assignees: Felpem
 
 ---
