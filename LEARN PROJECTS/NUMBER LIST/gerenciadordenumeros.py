@@ -4,7 +4,7 @@ looping= True
 
 while looping:
     numero= input("Digite um numero ou 'pronto' para finalizar:")
-    if numero == "done":
+    if numero == "pronto":
         break
     else:
         try:
