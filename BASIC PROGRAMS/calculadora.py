@@ -1,5 +1,8 @@
 """CALCULADORA"""
 import math
+import PySimpleGUI as sg
+
+   
 
 ## FUNÇÃO PARA A SOMA / FUNCTION FOR SUM ##
 def adicao():
@@ -119,3 +122,5 @@ while True:
     elif opcao == "7":
         print("Encerrado!! :)")
         break
+    else:
+        print('ERROR! Opção Invalida!')
